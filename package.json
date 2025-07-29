@@ -28,7 +28,7 @@
   "dependencies": {
     "next": "15.4.4",
     "phaser": "^4.0.0-rc.4",
-    "react": "19.1.0",
+    "react": "19.1.1",
     "react-dom": "19.1.0"
   },
   "devDependencies": {
