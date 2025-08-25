@@ -294,10 +294,10 @@ next@15.5.0:
     "@next/swc-win32-x64-msvc" "15.5.0"
     sharp "^0.34.3"
 
-phaser@^4.0.0-rc.4:
-  version "4.0.0-rc.4"
-  resolved "https://registry.yarnpkg.com/phaser/-/phaser-4.0.0-rc.4.tgz#b85d3b499ca37672aff939b72f1e9dd63396d5a9"
-  integrity sha512-qh1uSWJ0Y89Xz7zP7vS971SIPUkaya1/oYnpE5OSzTG3KMzVZYwYUA1ONkSTx9nE6uvjNoZ0Aq+gPjRVedDtBw==
+phaser@^4.0.0-rc.5:
+  version "4.0.0-rc.5"
+  resolved "https://registry.yarnpkg.com/phaser/-/phaser-4.0.0-rc.5.tgz#97ef9f66df283ca169dbd2b4f229cb4731640505"
+  integrity sha512-eLRUcjjQtlC+nGliK24ia+Dt6KDy5mCVq+KxQ4KXKyvAnSJoFOgN5xTgkIQ6L18Bwa83K/Prj5wT/49MXvYz7w==
   dependencies:
     eventemitter3 "^5.0.1"
 
