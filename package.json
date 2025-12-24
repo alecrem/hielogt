@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "next": "16.1.1",
-    "phaser": "^4.0.0-rc.5",
+    "phaser": "^4.0.0-rc.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },

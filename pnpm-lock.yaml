@@ -12,8 +12,8 @@ importers:
         specifier: 16.1.1
         version: 16.1.1(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       phaser:
-        specifier: ^4.0.0-rc.5
-        version: 4.0.0-rc.5
+        specifier: ^4.0.0-rc.6
+        version: 4.0.0-rc.6
       react:
         specifier: 19.2.3
         version: 19.2.3
@@ -287,8 +287,8 @@ packages:
       sass:
         optional: true
 
-  phaser@4.0.0-rc.5:
-    resolution: {integrity: sha512-eLRUcjjQtlC+nGliK24ia+Dt6KDy5mCVq+KxQ4KXKyvAnSJoFOgN5xTgkIQ6L18Bwa83K/Prj5wT/49MXvYz7w==}
+  phaser@4.0.0-rc.6:
+    resolution: {integrity: sha512-36DRtoZVYyKf4Fmm/IlNEpIyM4NLHjI+W1hbA+nji1e1uKCB9Ojj7XryiReB5+e5367gHT/WJpSuJoEp3LeCQw==}
 
   picocolors@1.1.1:
     resolution: {integrity: sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==}
@@ -531,7 +531,7 @@ snapshots:
       - '@babel/core'
       - babel-plugin-macros
 
-  phaser@4.0.0-rc.5:
+  phaser@4.0.0-rc.6:
     dependencies:
       eventemitter3: 5.0.1
 
